@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"BESA.Local.Directory","l":"AgLocalHandlerBESA"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"BESA.Local","l":"LocalAdmBESA"},{"p":"BESA.Local.Directory","l":"LocalAdmHandlerBESA"},{"p":"BESA.Local.Directory","l":"LocalDirectoryBESA"}];updateSearchResults();
