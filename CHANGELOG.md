@@ -2,8 +2,9 @@
 
 ## ✅ Cambios Completados
 
-### 1. Actualización de Versión
+### 1. Actualización de Versión y ArtifactId
 - **Antes**: `1.0.0` → **Ahora**: `3.5`
+- **ArtifactId**: Cambiado a `local-besa-simple` para evitar conflictos de nombres
 - Actualizado en `pom.xml`, `README.md`, y `SETUP_AUTH.md`
 - Mantiene consistencia con KernelBESA v3.5.1
 

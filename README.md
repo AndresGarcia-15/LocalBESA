@@ -70,7 +70,7 @@ Para usar LocalBESA en otro proyecto Maven:
 ```xml
 <dependency>
     <groupId>io.github.iscoutb</groupId>
-    <artifactId>local-besa</artifactId>
+    <artifactId>local-besa-simple</artifactId>
     <version>3.5</version>
 </dependency>
 ```
