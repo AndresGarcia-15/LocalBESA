@@ -1,7 +1,7 @@
 @options
 @packages
 -classpath
-'C:/Users/jairo/Proyectos/simulador/LocalBESA/../KernelBESA/target/kernel-besa-3.5.1.jar'
+'C:/Users/jairo/Proyectos/simulador/LocalBESA/../KernelBESA/target/kernel-besa-3.6.0.jar'
 -encoding
 'UTF-8'
 -protected
@@ -9,7 +9,7 @@
 -source
 '21'
 -sourcepath
-'C:/Users/jairo/Proyectos/simulador/LocalBESA/src;C:/Users/jairo/Proyectos/simulador/LocalBESA/target/generated-sources/annotations'
+'C:/Users/jairo/Proyectos/simulador/LocalBESA/src/main/java;C:/Users/jairo/Proyectos/simulador/LocalBESA/target/generated-sources/annotations'
 -author
 -bottom
 'Copyright &#169; 2025. All rights reserved.'
@@ -21,34 +21,34 @@
 'UTF-8'
 -Xdoclint:none
 -doctitle
-'LocalBESA 3.5 API'
+'LocalBESA 3.6.0 API'
 -use
 -version
 -windowtitle
-'LocalBESA 3.5 API'
+'LocalBESA 3.6.0 API'
 BESA.Local.Directory
 BESA.Local
-C:\Users\jairo\Proyectos\simulador\LocalBESA\..\KernelBESA\target\kernel-besa-3.5.1.jar = 1757471806660
-C:\Users\jairo\Proyectos\simulador\LocalBESA\src = 1757470815844
-C:\Users\jairo\Proyectos\simulador\LocalBESA\target\generated-sources\annotations = 1757473200233
-C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\allclasses-index.html = 1757473203736
-C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\allpackages-index.html = 1757473203739
-C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\copy.svg = 1757473203786
-C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\element-list = 1757473203636
-C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\help-doc.html = 1757473203777
-C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\index-all.html = 1757473203766
-C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\index.html = 1757473203721
-C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\link.svg = 1757473203788
-C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\member-search-index.js = 1757473203745
-C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\module-search-index.js = 1757473203741
-C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\overview-summary.html = 1757473203773
-C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\overview-tree.html = 1757473203717
-C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\package-search-index.js = 1757473203742
-C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\script.js = 1757473203784
-C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\search-page.js = 1757473203794
-C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\search.html = 1757473203770
-C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\search.js = 1757473203791
-C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\serialized-form.html = 1757473203676
-C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\stylesheet.css = 1757473203781
-C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\tag-search-index.js = 1757473203747
-C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\type-search-index.js = 1757473203744
+C:\Users\jairo\Proyectos\simulador\LocalBESA\..\KernelBESA\target\kernel-besa-3.6.0.jar = 1757555043652
+C:\Users\jairo\Proyectos\simulador\LocalBESA\src\main\java = 1757556664174
+C:\Users\jairo\Proyectos\simulador\LocalBESA\target\generated-sources\annotations = 1757556680510
+C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\allclasses-index.html = 1757556683899
+C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\allpackages-index.html = 1757556683901
+C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\copy.svg = 1757556683938
+C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\element-list = 1757556683812
+C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\help-doc.html = 1757556683932
+C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\index-all.html = 1757556683923
+C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\index.html = 1757556683885
+C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\link.svg = 1757556683939
+C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\member-search-index.js = 1757556683907
+C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\module-search-index.js = 1757556683902
+C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\overview-summary.html = 1757556683927
+C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\overview-tree.html = 1757556683881
+C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\package-search-index.js = 1757556683904
+C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\script.js = 1757556683936
+C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\search-page.js = 1757556683943
+C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\search.html = 1757556683925
+C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\search.js = 1757556683942
+C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\serialized-form.html = 1757556683848
+C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\stylesheet.css = 1757556683934
+C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\tag-search-index.js = 1757556683908
+C:\Users\jairo\Proyectos\simulador\LocalBESA\target\apidocs\type-search-index.js = 1757556683905
